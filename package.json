@@ -1,11 +1,11 @@
 {
   "name": "reduced-countries-list",
-  "version": "0.1.0",
-  "description": "reduce countries-list package, obtain only names of countries",
+  "version": "1.0.0",
+  "description": "Provides a simple countries-list in JSON format",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node --watch index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -16,8 +16,5 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ricardo-bohorquez/reduced-countries-list/issues"
-  },
-  "dependencies": {
-    "countries-list": "3.1.1"
   }
 }

@@ -1,5 +1,3 @@
-import { countries } from "countries-list"
-
-const reducedCountriesList = Object.keys(countries).map(code => countries[code].name)
+import reducedCountriesList from "./reduced-countries.json"
 
 export default reducedCountriesList

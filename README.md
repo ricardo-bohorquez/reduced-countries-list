@@ -1,2 +1,2 @@
 # reduced-countries-list
-This package reduce the data in the package https://www.npmjs.com/package/countries-list for obtain exclusively the names of countries and provide an list in an array
+This package provides a countries-list where ONLY return their names in JSON format. NOT return data of country code, prefix phone, capital, etc.
