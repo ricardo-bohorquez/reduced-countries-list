@@ -1,6 +1,6 @@
 {
   "name": "reduced-countries-list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Provides a simple countries-list in JSON format",
   "main": "index.js",
   "type": "module",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "https://github.com/ricardo-bohorquez/reduced-countries-list.git"
   },
-  "keywords": [],
+  "keywords": ["country", "countries", "list"],
   "author": "Ricardo Bohórquez",
   "license": "MIT",
   "bugs": {
